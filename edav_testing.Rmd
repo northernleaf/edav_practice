@@ -6,6 +6,7 @@ output: html_document
 ---
 
 lalallala 
+try to add a beta $\beta$
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
